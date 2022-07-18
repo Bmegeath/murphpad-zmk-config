@@ -21,7 +21,7 @@
 };
 
 &encoder_2 {
-	status = "okay";
+	status = "disabled";
 };
 
 /* Combo Definitions*/
